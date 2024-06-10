@@ -5,6 +5,7 @@
     },
     "overrides": [
       { "model": "tower_defense:item/decorative/castle", "predicate": { "custom_model_data": 1 } },
-      { "model": "tower_defense:item/decorative/range_outline", "predicate": { "custom_model_data": 100 } }
+      { "model": "tower_defense:item/fx/range_outline", "predicate": { "custom_model_data": 100 } },
+      { "model": "tower_defense:item/fx/pop", "predicate": { "custom_model_data": 101 } }
     ]
   }
