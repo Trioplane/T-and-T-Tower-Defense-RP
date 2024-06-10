@@ -21,4 +21,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Script
-        run: python uplaod.py
+        run: python upload.py
