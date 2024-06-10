@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "tower_defense:font/bossbar.png",
+            "ascent": 3,
+            "height": 15,
+            "chars": [
+                "\uE001"
+            ]
+        }
+    ]
+}

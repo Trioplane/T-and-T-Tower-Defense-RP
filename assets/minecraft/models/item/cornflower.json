@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:block/cornflower"
+    },
+    "overrides": [
+      { "model": "tower_defense:item/towers/arrow_dispenser", "predicate": { "custom_model_data": 1 } },
+      { "model": "tower_defense:item/towers/dripstone_stabber", "predicate": { "custom_model_data": 2 } },
+      
+      { "model": "tower_defense:item/towers/arrow_dispenser_active", "predicate": { "custom_model_data": 101 } },
+      { "model": "tower_defense:item/towers/dripstone_stabber_active", "predicate": { "custom_model_data": 201 } }
+    ]
+  }

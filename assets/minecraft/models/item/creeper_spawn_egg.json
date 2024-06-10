@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:block/cornflower"
+    },
+    "overrides": [
+      { "model": "tower_defense:item/towers/arrow_dispenser", "predicate": { "custom_model_data": 1 } },
+
+      { "model": "tower_defense:item/towers/dripstone_stabber", "predicate": { "custom_model_data": 2 } }
+    ]
+  }
