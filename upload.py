@@ -7,7 +7,7 @@ def main():
   for file in walkedFiles:
     concatinatedFile = file[0]
     for path in file[2]:
-      concatinatedFile = concatinatedFile + "\\" + path
+      concatinatedFile = concatinatedFile + "/" + path
       files.append(concatinatedFile)
       concatinatedFile = file[0]
   
