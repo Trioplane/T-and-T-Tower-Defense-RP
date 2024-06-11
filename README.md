@@ -4,3 +4,4 @@
 > - Search T & T Tower Defence
 > - Click Play
 > - Look Around the lobby
+> - /vote
