@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/amethyst_shard"
+    },
+    "overrides": [
+      { "model": "tower_defense:item/enemies/small_command_snake", "predicate": { "custom_model_data": 1 } }
+    ]
+  }
